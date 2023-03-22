@@ -7,7 +7,7 @@ function Home() {
     <div className='home'>
         <div className='headerContainer'>
             <h1>Greetings!!!</h1>
-            <p> I'm a junior at UIUC.</p>
+            <p> My name is Yuhua Weng.</p>
             <Link to='/introduction'>
                 <button> Click Here to know more about me!</button>
             </Link>
